@@ -1,0 +1,10 @@
+#config.yaml
+para:
+  selectnum: 5
+  starttime: '2017/1/1'
+  mode: 2
+  maxcore: 7
+  maxnum: 50
+  stockpath: 'output/'
+  factorPath: 'factorFile/'
+  outputpath: 'result/'
